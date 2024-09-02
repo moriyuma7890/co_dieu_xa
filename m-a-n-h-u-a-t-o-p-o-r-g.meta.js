@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         m-a-n-h-u-a-t-o-p-o-r-g
 // @namespace    https://github.com/moriyuma7890/co_dieu_xa/raw/main/m-a-n-h-u-a-t-o-p-o-r-g.user.js
-// @version      2024.09.02
+// @version      2024.09.02.1
 // @description  down m-a-n-h-u-a-t-o-p-o-r-g
 // @author       You
 // @match        https://manhuatop.org/*/*/*
